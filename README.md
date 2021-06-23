@@ -4,8 +4,3 @@ give your name list
 Joseph Legolas
 
 Aswin kumar
-
-Swathi 
-
-John
-
