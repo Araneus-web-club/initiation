@@ -24,4 +24,4 @@ Y.Pavani Sai(Team-Swift Flyers)
 
 K.Nandini(Team -React Boosters)
 
-Ch.Harini(Team -Angular Jaguars)
+R.Bindu Bhavya Sree(Team-Angular Jaguars)
