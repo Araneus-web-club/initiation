@@ -1,4 +1,4 @@
 # initiation
 give your name list
 
-Ch.Harini(Team-Angular Jaguars)
+R.Bindu Bhavya Sree(Team-Angular Jaguars)
