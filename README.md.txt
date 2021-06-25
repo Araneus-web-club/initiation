@@ -17,3 +17,5 @@ K.V.N.P.Siddhartha (Team - Nodejs Nerds Co-Lead)
 B.John Vedanth Raj(Team-Eclipse Emperors)
 
 Sk.Saadhiq(Team-React Boosters)
+
+L.Anjani Mounya Sri(Team-Eclipse Emperors)
