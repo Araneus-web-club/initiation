@@ -20,6 +20,8 @@ Sk.Saadhiq(Team-React Boosters)
 
 L.Anjani Mounya Sri(Team-Eclipse Emperors)
 
+S.Saikrishna(Team-React Boosters)
+
 Y.Pavani Sai(Team-Swift Flyers)
 
 K.Nandini(Team -React Boosters)
